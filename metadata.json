@@ -1,0 +1,18 @@
+{
+  "name": "fullstackpuppet-ntp",
+  "version": "0.1.0",
+  "author": "fullstackpuppet",
+  "summary": "It is used to automate ntp module",
+  "license": "Apache-2.0",
+  "source": "https://github.com/aamirahmad170/ntp-module.git",
+  "project_page": "https://github.com/aamirahmad170/ntp-module.git",
+  "issues_url": "https://github.com/aamirahmad170/ntp-module/issues",
+  "dependencies": [
+    {
+      "name": "puppetlabs-stdlib",
+      "version_requirement": ">= 1.0.0"
+    }
+  ],
+  "data_provider": null
+}
+
