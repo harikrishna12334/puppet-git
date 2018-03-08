@@ -1,8 +1,8 @@
 {
-  "name": "fullstackpuppet-ntp",
+  "name": "puppetlabs-git",
   "version": "0.1.0",
   "author": "fullstackpuppet",
-  "summary": "It is used to automate ntp module",
+  "summary": "MOdule for installing git on the server",
   "license": "Apache-2.0",
   "source": "https://github.com/aamirahmad170/ntp-module.git",
   "project_page": "https://github.com/aamirahmad170/ntp-module.git",
